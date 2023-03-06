@@ -74,7 +74,6 @@ article {
 /* Description of LaceBrace product */
 #description {
     background-color: rgb(6, 1, 47);
-    border-color: 20px red;
     border-radius: 5px;
     border: thick double;
     color: antiquewhite;
@@ -160,8 +159,4 @@ footer {
     text-align: center;
     margin-top: 2%;
     margin-bottom: 3%
-}
-
-.registration {
-    size: 80%;
 }
